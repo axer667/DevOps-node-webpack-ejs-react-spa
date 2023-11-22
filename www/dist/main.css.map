@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA;EACI,uBAAuB;EACvB,kBAAkB;;AAGtB;EACI,aAAa","sources":["webpack://default-app/./src/ts/styles.css"],"sourcesContent":[".App {\n    font-family: sans-serif;\n    text-align: center;\n}\n\na {\n    margin: 0 5px;\n}\n"],"names":[],"sourceRoot":""}
